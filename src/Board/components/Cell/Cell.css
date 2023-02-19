@@ -1,0 +1,11 @@
+.Cell {
+    display: block;
+    background-color: red;
+    margin: 5px;
+    height: var(--cellSize);
+    width: var(--cellSize);
+    line-height: var(--cellSize);
+    padding: 0;
+    text-align: center;
+    font-size: var(--cellFontSize);
+}

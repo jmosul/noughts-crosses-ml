@@ -1,0 +1,6 @@
+.Board .Board__Row {
+    min-width: 150px;
+    background: #61dafb;
+    display: flex;
+    flex-direction: row;
+}

@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root{
+  --cellSize: 40px;
+  --cellFontSize: calc((75vw - 4.5rem) / 7);
+}
